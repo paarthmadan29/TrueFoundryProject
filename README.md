@@ -1,0 +1,2 @@
+# TrueFoundryProject
+Sentiment Analysis API
